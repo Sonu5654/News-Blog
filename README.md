@@ -1,47 +1,46 @@
-<h1 align="center">📰 News Blog</h1>
+<h1 align="center">📰 News Blog Portal</h1>
 <p align="center">
-  A modern, responsive, and dynamic news web application delivering real-time headlines across multiple categories.
+  A dynamic and responsive PHP-based news portal built with HTML, CSS, and MySQL.
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-PHP-blue.svg" alt="PHP">
+  <img src="https://img.shields.io/badge/Frontend-HTML%2FCSS-green.svg" alt="HTML CSS">
+  <img src="https://img.shields.io/badge/Database-MySQL-orange.svg" alt="MySQL">
+  <img src="https://img.shields.io/badge/License-MIT-lightgrey.svg" alt="License">
+</p>
 
 ---
 
-## ✨ Overview
+## 📌 Project Overview
 
-**News Blog** is a sleek and performance-optimized platform for exploring current events and breaking news from around the globe. Whether you're a developer, blogger, or journalist, this project provides a clean and engaging way to present timely content to readers.
-
----
-
-## 📸 Live Demo
-
-> 🧪 Coming Soon — or deploy it yourself with [Vercel](https://vercel.com), [Netlify](https://netlify.com), or [Render](https://render.com)
+**News Blog Portal** is a content management system designed for publishing and managing news articles efficiently. Built with PHP and MySQL on the backend and styled with modern HTML/CSS, it offers both admin and user views for managing and reading articles.
 
 ---
 
 ## 🔥 Key Features
 
-- 🗞️ Real-time news fetched from top-tier news APIs
-- 🌐 Multiple categories: Business, Sports, Tech, Entertainment, etc.
-- 🌙 Light & Dark Mode support
-- 🔍 Keyword-based news search
-- 📱 Responsive on all screen sizes
-- 💨 Fast, SEO-friendly, and accessible
+- 📰 Post, edit, and delete news articles via admin panel
+- 🔍 Search and filter by category or keyword
+- 📂 Category-based article organization
+- 👤 Admin authentication system
+- 📅 Timestamps and latest post highlights
+- 💻 Fully responsive design (mobile-friendly)
 
 ---
 
-## 🧱 Tech Stack
+## 🛠️ Tech Stack
 
-| Frontend       | Backend (optional) | APIs        | Styling               |
-|----------------|--------------------|-------------|------------------------|
-| HTML, CSS, JS  | Node.js, Express   | NewsAPI.org | TailwindCSS / Bootstrap |
-| React (Optional) | MongoDB (Optional) | Axios       | Responsive Design     |
+- **Backend**: PHP
+- **Frontend**: HTML5, CSS3
+- **Database**: MySQL
+- **Server**: Apache 
 
 ---
 
-## 🛠️ Getting Started
 
 ### Prerequisites
 
-- Node.js & npm
-- News API key from [https://newsapi.org](https://newsapi.org)
-
+- PHP 7.x or higher
+- MySQL server
+- Apache or XAMPP/LAMP stack
